@@ -71,19 +71,23 @@ The dashboard includes:
 
 Overview Dashboard:
 <br><br>
-<img width="1287" height="717" alt="image" src="https://github.com/user-attachments/assets/4107ce6f-1c55-43c8-9d90-48477ce99d73" />
+<img width="1287" height="717" alt="Screenshot 2026-04-28 145544" src="https://github.com/user-attachments/assets/0d64f1c2-7699-4498-8345-877f9830c0ea" />
+
 <br><br>
 Cost Analysis Dashboard:
 <br><br>
-<img width="1286" height="717" alt="image" src="https://github.com/user-attachments/assets/f2979967-9442-4916-8dd0-64ea6e1deb83" />
+<img width="1286" height="717" alt="Screenshot 2026-04-28 145635" src="https://github.com/user-attachments/assets/ede4fe2b-f2f1-4373-bc57-12ead4b9f93f" />
+
 <br><br>
 Patient Details Dashboard:
 <br><br>
-<img width="1283" height="720" alt="image" src="https://github.com/user-attachments/assets/0e741f86-ec44-4399-a27d-d36f70334b09" />
+<img width="1283" height="720" alt="Screenshot 2026-04-28 145715" src="https://github.com/user-attachments/assets/aebd1a38-ad87-462b-8611-cbe125681989" />
+
 <br><br>
 Insights Dashboard:
 <br><br>
-<img width="1281" height="715" alt="image" src="https://github.com/user-attachments/assets/7ac0be38-17a0-4cc1-a726-d28b1676b776" />
+<img width="1281" height="715" alt="Screenshot 2026-04-28 145740" src="https://github.com/user-attachments/assets/957535c1-02a0-444c-bdc7-b69f4798223f" />
+
 
 
 
